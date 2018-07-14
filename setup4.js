@@ -15,7 +15,7 @@ inp2.style("border","double");inp2.style("width","25px");
 //inp.style("background","green");
  inp2.style("background-color","blue");
 inp.changed(chg);inp2.changed(chg);
-inp3=createInput(45);inp3.position(20,145);
+inp3=createInput(15);inp3.position(20,145);
 inp3.style("border","dotted");inp3.style("width","25px");
 inp4=createInput(135);inp4.position(20,180);
 inp4.style("border","solid");inp4.style("width","25px");
