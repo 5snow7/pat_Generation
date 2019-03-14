@@ -17,7 +17,8 @@ function slopexy_N( y, x, n){
 k++;
  }
  //cur=cur+1;
-  return cur;
+  return cur;//test
+  
 }
 
 function edit_Str( str){
