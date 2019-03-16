@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
   oneRing();
-  background(220,0,0);t.set1(width/2,2.5*height/5,0);
+  background(220,100,0);t.set1(width/2,2.5*height/5,0);
    sent=edit_Str(slopexy_N(y,x,n1));
   t.sketch(l1,a1,sent);
   textSize(18);
